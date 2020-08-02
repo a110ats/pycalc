@@ -1,0 +1,3 @@
+# PyCalc  
+A very simple Python Script that works like a simple calculator  
+Just for Study...  
